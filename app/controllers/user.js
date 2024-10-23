@@ -84,5 +84,6 @@ exports.destroy = async (req, res) => {
     });
 };
 
-// hiruvue hi this is partha
+// hiruvue hi this is partha from kod
+
 
